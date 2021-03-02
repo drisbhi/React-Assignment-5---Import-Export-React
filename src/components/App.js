@@ -13,7 +13,7 @@ const App = () => {
       < span {SubHeading}/>
       < span {SubmitButton}/>
     </div>
-  ), document.getElementById("root")
+  )
 }
 export default App;
 
