@@ -8,10 +8,10 @@ import SubmitButton from "./SubmitButton";
 const App = () => {
   return (
     <div id="main">
-      <span {Heading} />
-      < span {InputQuery}/>
-      < span {SubHeading}/>
-      < span {SubmitButton}/>
+      < {Heading} />
+      <  {InputQuery}/>
+      <  {SubHeading}/>
+      <  {SubmitButton}/>
     </div>
   )
 }
